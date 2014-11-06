@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block title %}Enterobase{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+    <h1>Welcome to Enterobase </h1>
+    {% if current_user.is_authenticated() %}{{ current_user.username }} logged in{% else %}Not logged in{% endif %}!
+</div>
+{% endblock %}
