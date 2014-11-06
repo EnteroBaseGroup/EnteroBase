@@ -1,12 +1,18 @@
+<<<<<<< HEAD
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+>>>>>>> 77a2a96934bb27e8a59865557e463027c4aa2e25
 *.py[cod]
 
 # C extensions
 *.so
 
+<<<<<<< HEAD
 # Packages
 *.egg
 *.egg-info
@@ -50,6 +56,8 @@ venv
 test.py
 untitled-1.py
 
+=======
+>>>>>>> 77a2a96934bb27e8a59865557e463027c4aa2e25
 # Distribution / packaging
 .Python
 env/
@@ -97,8 +105,11 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 
 #specific files
 funcsmodule.py
 *.wpr
 *.wpu
+=======
+>>>>>>> 77a2a96934bb27e8a59865557e463027c4aa2e25
